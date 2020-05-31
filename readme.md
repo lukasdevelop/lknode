@@ -2,11 +2,8 @@
 
 A CLI for lknode.
 
-## Customizing your CLI
 
-Check out the documentation at in development, sorry. =(
-
-## Publishing to NPM
+## Github documentation
 
 To start the package: https://github.com/lukasdevelop/lknode
 
@@ -32,5 +29,9 @@ $ lknode g:c NameOfController
 ```
 # License
 
+<<<<<<< HEAD
 MIT - Lukas Conká
+=======
+Lukas Conka
+>>>>>>> 2f17be06cccaa6de91c4912b895c667b13c6bbfc
 
