@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " cross-env NODE_ENV=development PORT=3333 nodemon -r esm src/server.js",
+    "start": "node -r esm src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "celebrate": "^12.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemailer": "^6.4.8",
+    "nodemailer-express-handlebars": "^4.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "esm": "^3.2.25",
+    "nodemon": "^2.0.4"
+  }
+}
