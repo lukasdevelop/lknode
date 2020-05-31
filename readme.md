@@ -4,7 +4,7 @@ A CLI for lknode.
 
 ## Customizing your CLI
 
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
+Check out the documentation at in development, sorry.
 
 ## Publishing to NPM
 
@@ -17,5 +17,5 @@ $ lknode start
 
 # License
 
-MIT - see LICENSE
+Lukas Conka
 
