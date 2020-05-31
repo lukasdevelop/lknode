@@ -29,9 +29,5 @@ $ lknode g:c NameOfController
 ```
 # License
 
-<<<<<<< HEAD
 MIT - Lukas Conká
-=======
-Lukas Conka
->>>>>>> 2f17be06cccaa6de91c4912b895c667b13c6bbfc
 
