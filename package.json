@@ -1,6 +1,6 @@
 {
   "name": "lknode",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Directories basic of NODEJS CLI",
   "bin": {
     "lknode": "bin/lknode"
@@ -20,7 +20,7 @@
     "docs",
     "bin"
   ],
-  "license": "MIT",
+  "license": "LukasConka",
   "dependencies": {
     "gluegun": "latest"
   },

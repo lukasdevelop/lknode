@@ -4,18 +4,33 @@ A CLI for lknode.
 
 ## Customizing your CLI
 
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
+Check out the documentation at in development, sorry. =(
 
 ## Publishing to NPM
 
-To package your CLI up for NPM, do this:
+To start the package: https://github.com/lukasdevelop/lknode
 
 ```shell
-$ npm i -g lknode
+$ npm install -g lknode
 $ lknode start
+$ npm install
+$ npm run dev
 ```
-
+# Commands 
+```shell
+$ lknode -h
+$ lknode start
+$ lknode g:c NameOfController
+```
+# Documentation 
+```shell
+1 - Debugging to VSCode
+2 - Middleware JWT configured
+3 - Module NodeMailer with template to recover password
+4 - Create Controller with command $ lknode g:c NameOfController
+5 - with package ESM to features of ES6+ (import/export...)
+```
 # License
 
-MIT - see LICENSE
+MIT - Lukas Conká
 
